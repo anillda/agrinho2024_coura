@@ -1,9 +1,18 @@
 .body {
     padding: 0%;
     margin: auto;
+    }
+
+.cabeçalho{ 
+
+  text-align: center;
+
 }
+.imagem{
+    width: 45%;
 
-.cabeçalho{
-
-
+    
+}
+.informações{
+  text-align: center;
 }
